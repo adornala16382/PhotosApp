@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"view","l":"AdminController"},{"p":"view","l":"AlbumController"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"view","l":"LoginController"},{"p":"view","l":"NonAdminController"},{"p":"view","l":"PhotoController"},{"p":"view","l":"SceneSwitcher"}];updateSearchResults();
